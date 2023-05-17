@@ -19,4 +19,4 @@ Both the standard Raspberry Pi MMAL functions and OpenCV functions can be used t
 
 For instructions on how to install MediaPipe on Raspberry Pi, please refer to our separate repository dedicated to this topic.
 
-![SaraKIT_Face](https://github.com/SaraEye/SaraKIT-MediaPipe-Object-Detection-Raspberry-Pi-64bit/assets/35704910/a7f9ec06-85cd-49a9-b0d6-db02ec404794)
+![SaraKIT_Object_Detection](https://github.com/SaraEye/SaraKIT-MediaPipe-Object-Detection-Raspberry-Pi-64bit/assets/35704910/de6acd5f-694b-42a0-b3c1-fc672f1c80a8)
