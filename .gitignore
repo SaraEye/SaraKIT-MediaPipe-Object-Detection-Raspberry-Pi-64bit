@@ -4,4 +4,4 @@
 *.csv
 *.o
 *.d
-ObjectDetection
+FaceDetection
